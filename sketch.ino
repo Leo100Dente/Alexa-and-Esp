@@ -10,8 +10,8 @@
 fauxmoESP fauxmo;
 
 // Identificação da Rede WiFi
-const char *ssid = "EMTEC-FIBRA-KOA"; // Nome da Sua Rede WiFi
-const char *passwd = "l30n4rdo";      // Senha da Sua Rede WiFi
+const char *ssid = "***"; // Nome da Sua Rede WiFi
+const char *passwd = "***";      // Senha da Sua Rede WiFi
 
 // Variavel para teste
 int i = 0;
